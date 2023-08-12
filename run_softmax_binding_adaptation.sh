@@ -1,0 +1,1 @@
+python run_softmax_range_binding_adaptation.py -p 3 -g 1 -t 10  -d all  -n test
